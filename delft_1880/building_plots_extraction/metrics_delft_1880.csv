@@ -1,0 +1,4 @@
+file;avg_area;med_area;std_area;min_area;max_area;avg_n_vert;med_n_vert;std_n_vert;avg_perim;med_perim;std_perim;avg_compac;med_compac;std_compac;avg_elong;med_elong;std_elong;avg_round;med_round;std_round;avg_convex;med_convex;std_convex;nber_concave_poly;avg_solid;med_solid;std_solid;avg_rect;med_rect;std_rect;nber_poly_with_hole;nber_plots
+raw_plots;1965.218;506.49;2987.006;151.191;16940.943;114.094;75;103.497;305.565;197;298.806;0.221;0.201;0.118;0.491;0.466;0.224;0.474;0.457;0.17;0.663;0.691;0.103;191;0.681;0.696;0.16;0.552;0.558;0.171;28;191
+alpha_plots;2219.318;683.645;3194.607;167.215;18021.795;34.89;30;14.423;186.34;122;152.514;0.63;0.679;0.182;0.483;0.462;0.226;0.635;0.68;0.179;0.994;0.997;0.012;191;0.929;0.956;0.093;0.739;0.749;0.121;0;191
+generalized_plots;2300.296;754.066;3200.327;181.167;18155.8;5.783;5;1.949;202.793;141.5;150.327;0.535;0.546;0.17;0.443;0.4;0.239;0.537;0.546;0.168;0.996;1;0.016;48;0.97;1;0.095;0.705;0.715;0.16;0;184

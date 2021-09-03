@@ -1,0 +1,5 @@
+RESULTS OBIA SEGMENTATION: 
+	 * Precision: 0.954100
+	 * Recall: 0.905100
+	 * F-measure: 0.929000
+AFTER COMMANDEUR' S GENERALISATION: 	 * Average difference between shapes: 98.398700	 * Average difference between shape turning functions: 1.181200
