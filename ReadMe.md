@@ -42,4 +42,6 @@ Historical 3D city models have been reconstructed for two study areas at differe
 
 ## Citation/credit 
 
-When using these data in a scientific context, please cite the data source of the historical maps and the following MSc thesis: http://resolver.tudelft.nl/uuid:0889e498-cdd6-4a19-bbcb-d3fb189560e1. 
+When using these data in a scientific context, please cite the data source of the historical maps and the following paper : 
+
+Morlighem, C., Labetski, A. & Ledoux, H. Reconstructing historical 3D city models. Urban Info 1, 11 (2022). https://doi.org/10.1007/s44212-022-00011-3
